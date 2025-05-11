@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="probctrl",
-    version="0.1.1",
+    version="0.1.2",
     description="A lightweight Python decorator toolkit for probabilistic, delayed, and throttled execution.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    author="0.1.0",
+    author="Lovelymili",
     author_email="982074664@qq.com",
     url="https://github.com/Lovelymili/probctrl",
     license="MIT",
